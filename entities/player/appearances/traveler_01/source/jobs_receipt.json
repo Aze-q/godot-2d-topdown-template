@@ -1,0 +1,18 @@
+{
+  "tool": "list_jobs",
+  "arguments": {
+    "include_recent": true
+  },
+  "fingerprint": "ac467b57ca95587c0a5521e0ed4bafa80f7237c4bbff382c5f0ae52ef195386e",
+  "submitted_at": "2026-09-10T22:35:37.902131+00:00",
+  "status": "returned",
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "17 jobs:\ndcd2ae4b-d454-4fa2-a8b5-11d8512794f8 processing 68%, eta ~188s (generation, 6m41s old)\n4c334211-4571-42d0-92b8-45593e8620d0 processing 50%, eta ~401s (generation, 6m41s old)\nfa07c19f-7e17-404f-8f0f-a9a6c18b1e5d processing 69%, eta ~180s (generation, 6m41s old)\n6b17cca6-59a2-407d-821b-1acac9bade04 processing 73%, eta ~148s (generation, 6m41s old)\na3183670-df39-4b78-a87d-145c4d4f23a7 processing 58%, eta ~290s (generation, 6m41s old)\nd02171e0-0f70-49c5-a33d-844153e6476e processing 53%, eta ~356s (generation, 6m41s old)\n233c3805-6d12-4976-b28e-e2ded7a9818b processing 68%, eta ~189s (generation, 6m41s old)\n19218a5a-4428-46c5-9186-fe3092e8a63d processing 43%, eta ~532s (generation, 6m41s old)\nb4a29f98-af7d-4a95-87ed-031ef903f58b completed (generation, 12m14s ago)\n91f29399-e6b4-4a4a-9c4e-3b4958dfa85f completed (generation, 12m15s ago)\nafd879b7-5ae6-4b4d-a1f4-cb76a2002ea1 completed (generation, 12m15s ago)\n7b866fd0-ec98-45e0-beb9-67ac7c298b26 completed (generation, 12m15s ago)\n5d9e8212-0c8f-4d18-8e5a-c0132b6753b0 completed (generation, 12m15s ago)\n045a5214-635c-4e33-8773-e16b0fa426a5 completed (generation, 12m15s ago)\nf7f86506-71a3-43bf-8093-cb712e90da7c completed (generation, 12m15s ago)\nf15375ee-de48-4197-930d-07ac1fdd8a97 completed (generation, 12m15s ago)\n268d05cd-777f-44d9-bc3e-230fed01cf0a completed (generation, 18m12s ago)\nhint: cancel_job(job_id=\"...\") to release a stuck job's concurrency slot"
+      }
+    ],
+    "isError": false
+  }
+}

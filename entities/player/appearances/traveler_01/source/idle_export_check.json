@@ -1,0 +1,546 @@
+[
+  {
+    "action": "traveler_01_idle_v1",
+    "direction": "south",
+    "frame": 0,
+    "size": [
+      180,
+      180
+    ],
+    "bbox": [
+      67,
+      25,
+      115,
+      166
+    ],
+    "partial_alpha_pixels": 0,
+    "edge_touch": false
+  },
+  {
+    "action": "traveler_01_idle_v1",
+    "direction": "south",
+    "frame": 1,
+    "size": [
+      180,
+      180
+    ],
+    "bbox": [
+      67,
+      23,
+      116,
+      166
+    ],
+    "partial_alpha_pixels": 0,
+    "edge_touch": false
+  },
+  {
+    "action": "traveler_01_idle_v1",
+    "direction": "south",
+    "frame": 2,
+    "size": [
+      180,
+      180
+    ],
+    "bbox": [
+      67,
+      22,
+      114,
+      165
+    ],
+    "partial_alpha_pixels": 0,
+    "edge_touch": false
+  },
+  {
+    "action": "traveler_01_idle_v1",
+    "direction": "south",
+    "frame": 3,
+    "size": [
+      180,
+      180
+    ],
+    "bbox": [
+      67,
+      24,
+      115,
+      166
+    ],
+    "partial_alpha_pixels": 0,
+    "edge_touch": false
+  },
+  {
+    "action": "traveler_01_idle_v1",
+    "direction": "south-east",
+    "frame": 0,
+    "size": [
+      180,
+      180
+    ],
+    "bbox": [
+      70,
+      24,
+      116,
+      174
+    ],
+    "partial_alpha_pixels": 0,
+    "edge_touch": false
+  },
+  {
+    "action": "traveler_01_idle_v1",
+    "direction": "south-east",
+    "frame": 1,
+    "size": [
+      180,
+      180
+    ],
+    "bbox": [
+      70,
+      23,
+      115,
+      173
+    ],
+    "partial_alpha_pixels": 0,
+    "edge_touch": false
+  },
+  {
+    "action": "traveler_01_idle_v1",
+    "direction": "south-east",
+    "frame": 2,
+    "size": [
+      180,
+      180
+    ],
+    "bbox": [
+      70,
+      22,
+      113,
+      171
+    ],
+    "partial_alpha_pixels": 0,
+    "edge_touch": false
+  },
+  {
+    "action": "traveler_01_idle_v1",
+    "direction": "south-east",
+    "frame": 3,
+    "size": [
+      180,
+      180
+    ],
+    "bbox": [
+      70,
+      24,
+      114,
+      172
+    ],
+    "partial_alpha_pixels": 0,
+    "edge_touch": false
+  },
+  {
+    "action": "traveler_01_idle_v1",
+    "direction": "east",
+    "frame": 0,
+    "size": [
+      180,
+      180
+    ],
+    "bbox": [
+      74,
+      22,
+      111,
+      171
+    ],
+    "partial_alpha_pixels": 0,
+    "edge_touch": false
+  },
+  {
+    "action": "traveler_01_idle_v1",
+    "direction": "east",
+    "frame": 1,
+    "size": [
+      180,
+      180
+    ],
+    "bbox": [
+      74,
+      21,
+      111,
+      171
+    ],
+    "partial_alpha_pixels": 0,
+    "edge_touch": false
+  },
+  {
+    "action": "traveler_01_idle_v1",
+    "direction": "east",
+    "frame": 2,
+    "size": [
+      180,
+      180
+    ],
+    "bbox": [
+      73,
+      19,
+      109,
+      168
+    ],
+    "partial_alpha_pixels": 0,
+    "edge_touch": false
+  },
+  {
+    "action": "traveler_01_idle_v1",
+    "direction": "east",
+    "frame": 3,
+    "size": [
+      180,
+      180
+    ],
+    "bbox": [
+      73,
+      19,
+      109,
+      168
+    ],
+    "partial_alpha_pixels": 0,
+    "edge_touch": false
+  },
+  {
+    "action": "traveler_01_idle_v1",
+    "direction": "north-east",
+    "frame": 0,
+    "size": [
+      180,
+      180
+    ],
+    "bbox": [
+      67,
+      22,
+      111,
+      171
+    ],
+    "partial_alpha_pixels": 0,
+    "edge_touch": false
+  },
+  {
+    "action": "traveler_01_idle_v1",
+    "direction": "north-east",
+    "frame": 1,
+    "size": [
+      180,
+      180
+    ],
+    "bbox": [
+      67,
+      22,
+      111,
+      171
+    ],
+    "partial_alpha_pixels": 0,
+    "edge_touch": false
+  },
+  {
+    "action": "traveler_01_idle_v1",
+    "direction": "north-east",
+    "frame": 2,
+    "size": [
+      180,
+      180
+    ],
+    "bbox": [
+      68,
+      21,
+      110,
+      168
+    ],
+    "partial_alpha_pixels": 0,
+    "edge_touch": false
+  },
+  {
+    "action": "traveler_01_idle_v1",
+    "direction": "north-east",
+    "frame": 3,
+    "size": [
+      180,
+      180
+    ],
+    "bbox": [
+      67,
+      21,
+      109,
+      168
+    ],
+    "partial_alpha_pixels": 0,
+    "edge_touch": false
+  },
+  {
+    "action": "traveler_01_idle_v1",
+    "direction": "north",
+    "frame": 0,
+    "size": [
+      180,
+      180
+    ],
+    "bbox": [
+      68,
+      24,
+      114,
+      166
+    ],
+    "partial_alpha_pixels": 0,
+    "edge_touch": false
+  },
+  {
+    "action": "traveler_01_idle_v1",
+    "direction": "north",
+    "frame": 1,
+    "size": [
+      180,
+      180
+    ],
+    "bbox": [
+      68,
+      25,
+      113,
+      166
+    ],
+    "partial_alpha_pixels": 0,
+    "edge_touch": false
+  },
+  {
+    "action": "traveler_01_idle_v1",
+    "direction": "north",
+    "frame": 2,
+    "size": [
+      180,
+      180
+    ],
+    "bbox": [
+      68,
+      24,
+      113,
+      165
+    ],
+    "partial_alpha_pixels": 0,
+    "edge_touch": false
+  },
+  {
+    "action": "traveler_01_idle_v1",
+    "direction": "north",
+    "frame": 3,
+    "size": [
+      180,
+      180
+    ],
+    "bbox": [
+      68,
+      25,
+      114,
+      165
+    ],
+    "partial_alpha_pixels": 0,
+    "edge_touch": false
+  },
+  {
+    "action": "traveler_01_idle_v1",
+    "direction": "north-west",
+    "frame": 0,
+    "size": [
+      180,
+      180
+    ],
+    "bbox": [
+      66,
+      23,
+      112,
+      174
+    ],
+    "partial_alpha_pixels": 0,
+    "edge_touch": false
+  },
+  {
+    "action": "traveler_01_idle_v1",
+    "direction": "north-west",
+    "frame": 1,
+    "size": [
+      180,
+      180
+    ],
+    "bbox": [
+      65,
+      22,
+      112,
+      173
+    ],
+    "partial_alpha_pixels": 0,
+    "edge_touch": false
+  },
+  {
+    "action": "traveler_01_idle_v1",
+    "direction": "north-west",
+    "frame": 2,
+    "size": [
+      180,
+      180
+    ],
+    "bbox": [
+      66,
+      23,
+      112,
+      172
+    ],
+    "partial_alpha_pixels": 0,
+    "edge_touch": false
+  },
+  {
+    "action": "traveler_01_idle_v1",
+    "direction": "north-west",
+    "frame": 3,
+    "size": [
+      180,
+      180
+    ],
+    "bbox": [
+      66,
+      23,
+      112,
+      172
+    ],
+    "partial_alpha_pixels": 0,
+    "edge_touch": false
+  },
+  {
+    "action": "traveler_01_idle_v1",
+    "direction": "west",
+    "frame": 0,
+    "size": [
+      180,
+      180
+    ],
+    "bbox": [
+      70,
+      22,
+      106,
+      172
+    ],
+    "partial_alpha_pixels": 0,
+    "edge_touch": false
+  },
+  {
+    "action": "traveler_01_idle_v1",
+    "direction": "west",
+    "frame": 1,
+    "size": [
+      180,
+      180
+    ],
+    "bbox": [
+      70,
+      22,
+      106,
+      172
+    ],
+    "partial_alpha_pixels": 0,
+    "edge_touch": false
+  },
+  {
+    "action": "traveler_01_idle_v1",
+    "direction": "west",
+    "frame": 2,
+    "size": [
+      180,
+      180
+    ],
+    "bbox": [
+      71,
+      22,
+      106,
+      172
+    ],
+    "partial_alpha_pixels": 0,
+    "edge_touch": false
+  },
+  {
+    "action": "traveler_01_idle_v1",
+    "direction": "west",
+    "frame": 3,
+    "size": [
+      180,
+      180
+    ],
+    "bbox": [
+      70,
+      22,
+      106,
+      172
+    ],
+    "partial_alpha_pixels": 0,
+    "edge_touch": false
+  },
+  {
+    "action": "traveler_01_idle_v1",
+    "direction": "south-west",
+    "frame": 0,
+    "size": [
+      180,
+      180
+    ],
+    "bbox": [
+      70,
+      23,
+      113,
+      174
+    ],
+    "partial_alpha_pixels": 0,
+    "edge_touch": false
+  },
+  {
+    "action": "traveler_01_idle_v1",
+    "direction": "south-west",
+    "frame": 1,
+    "size": [
+      180,
+      180
+    ],
+    "bbox": [
+      70,
+      22,
+      112,
+      173
+    ],
+    "partial_alpha_pixels": 0,
+    "edge_touch": false
+  },
+  {
+    "action": "traveler_01_idle_v1",
+    "direction": "south-west",
+    "frame": 2,
+    "size": [
+      180,
+      180
+    ],
+    "bbox": [
+      71,
+      21,
+      112,
+      171
+    ],
+    "partial_alpha_pixels": 0,
+    "edge_touch": false
+  },
+  {
+    "action": "traveler_01_idle_v1",
+    "direction": "south-west",
+    "frame": 3,
+    "size": [
+      180,
+      180
+    ],
+    "bbox": [
+      71,
+      22,
+      112,
+      171
+    ],
+    "partial_alpha_pixels": 0,
+    "edge_touch": false
+  }
+]

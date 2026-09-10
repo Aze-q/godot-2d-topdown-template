@@ -1,0 +1,16 @@
+{
+  "tool": "get_balance",
+  "arguments": {},
+  "fingerprint": "5942541457118cebd9c022c39b8b20e6ed2953d905c89c7405cb70b1715d7d6f",
+  "submitted_at": "2026-09-10T22:40:12.115728+00:00",
+  "status": "returned",
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "credits: $0.00\ngenerations_remaining: 1966\ngenerations_used: 34\ngenerations_total: 2000\nsubscription: active (Tier 1: Pixel Apprentice)\ngenerations_reset: 2026-10-10\nnote: generations_total is this cycle's allowance (prorated on a mid-cycle upgrade); it refills on generations_reset"
+      }
+    ],
+    "isError": false
+  }
+}

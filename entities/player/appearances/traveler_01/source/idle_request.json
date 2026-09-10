@@ -1,0 +1,17 @@
+{
+  "character_id": "7b57215c-7d1f-48f1-8acf-d4fbbdba3631",
+  "mode": "template",
+  "template_animation_id": "breathing-idle",
+  "animation_name": "traveler_01_idle_v1",
+  "directions": [
+    "south",
+    "south-west",
+    "west",
+    "north-west",
+    "north",
+    "north-east",
+    "east",
+    "south-east"
+  ],
+  "ai_freedom": 0
+}

@@ -374,6 +374,9 @@ func apply_theme() -> void:
 	if is_instance_valid(code_edit):
 		var scale: float = EditorInterface.get_editor_scale()
 		var editor_settings = EditorInterface.get_editor_settings()
+		var font_size_setting := "interface/editor/fonts/code_font_size"
+		if not editor_settings.has_setting(font_size_setting):
+			font_size_setting = "interface/editor/code_font_size"
 		code_edit.theme_overrides = {
 			scale = scale,
 
@@ -396,7 +399,7 @@ func apply_theme() -> void:
 			comments_color = editor_settings.get_setting("text_editor/theme/highlighting/comment_color"),
 			jumps_color = Color(editor_settings.get_setting("text_editor/theme/highlighting/control_flow_keyword_color"), 0.6),
 
-			font_size = editor_settings.get_setting("interface/editor/code_font_size")
+			font_size = editor_settings.get_setting(font_size_setting)
 		}
 
 		banner_new_button.icon = get_theme_icon("New", "EditorIcons")

@@ -1,0 +1,114 @@
+[
+  {
+    "direction": "south",
+    "size": [
+      180,
+      180
+    ],
+    "bbox": [
+      64,
+      20,
+      116,
+      171
+    ],
+    "alpha_levels": 2
+  },
+  {
+    "direction": "south-east",
+    "size": [
+      180,
+      180
+    ],
+    "bbox": [
+      68,
+      22,
+      110,
+      174
+    ],
+    "alpha_levels": 2
+  },
+  {
+    "direction": "east",
+    "size": [
+      180,
+      180
+    ],
+    "bbox": [
+      73,
+      22,
+      110,
+      171
+    ],
+    "alpha_levels": 2
+  },
+  {
+    "direction": "north-east",
+    "size": [
+      180,
+      180
+    ],
+    "bbox": [
+      67,
+      22,
+      112,
+      171
+    ],
+    "alpha_levels": 2
+  },
+  {
+    "direction": "north",
+    "size": [
+      180,
+      180
+    ],
+    "bbox": [
+      64,
+      21,
+      116,
+      169
+    ],
+    "alpha_levels": 2
+  },
+  {
+    "direction": "north-west",
+    "size": [
+      180,
+      180
+    ],
+    "bbox": [
+      69,
+      22,
+      113,
+      172
+    ],
+    "alpha_levels": 2
+  },
+  {
+    "direction": "west",
+    "size": [
+      180,
+      180
+    ],
+    "bbox": [
+      71,
+      22,
+      107,
+      173
+    ],
+    "alpha_levels": 2
+  },
+  {
+    "direction": "south-west",
+    "size": [
+      180,
+      180
+    ],
+    "bbox": [
+      70,
+      22,
+      113,
+      174
+    ],
+    "alpha_levels": 2
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "tool": "animate_character",
+  "arguments": {
+    "character_id": "7b57215c-7d1f-48f1-8acf-d4fbbdba3631",
+    "mode": "template",
+    "template_animation_id": "running-8-frames",
+    "animation_name": "traveler_01_run_v1",
+    "directions": [
+      "south",
+      "south-west",
+      "west",
+      "north-west",
+      "north",
+      "north-east",
+      "east",
+      "south-east"
+    ],
+    "ai_freedom": 0
+  },
+  "fingerprint": "de09259503ce629c94745e94b73be6f71ae44bd579da665e0dc64e9972800a7c",
+  "submitted_at": "2026-09-10T22:28:55.827546+00:00",
+  "status": "returned",
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "character: 7b57215c-7d1f-48f1-8acf-d4fbbdba3631\nanimation: running-8-frames\ndirections: south, south-west, west, north-west, north, north-east, east, south-east (8 jobs)\ngroup: a7eb9189-a907-4a14-adb0-65c98657b6e7\neta: ~2-4 min\nadd more directions to this group: animate_character(character_id=\"7b57215c-7d1f-48f1-8acf-d4fbbdba3631\", template_animation_id=\"running-8-frames\", animation_group_id=\"a7eb9189-a907-4a14-adb0-65c98657b6e7\", directions=[...])\n\nhint: get_character(character_id=\"7b57215c-7d1f-48f1-8acf-d4fbbdba3631\")\nif poor: delete_animation(character_id=\"7b57215c-7d1f-48f1-8acf-d4fbbdba3631\", animation_type=\"...\") then retry with mode=\"v3\""
+      }
+    ],
+    "isError": false
+  }
+}

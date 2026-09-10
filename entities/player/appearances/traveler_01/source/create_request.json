@@ -1,0 +1,13 @@
+{
+  "name": "Guiliu traveler_01",
+  "description": "Hand-crafted pure 2D pixel art for a fantasy exploration action RPG. A single full-body young male traveler, about 23, slim and athletic with natural adult proportions, not chibi. Slightly tousled short-to-medium dark brown almost black hair, a clean mature face and a calm observant expression. Short warm-gray travel shoulder cape above the elbows, blue-gray scarf, light-gray inner shirt, dark gray-brown travel tunic, brown leather belt with one small practical tool pouch and a simple travel charm, dark trousers, worn brown leather boots and light leather wrist guards. Understated, reliable, experienced explorer. Empty relaxed hands, no weapons, no shield, no staff, no class insignia, no shoulder armor. Low top-down three-quarter RPG view, visible head top and readable face, shoulders, torso, arms, legs and feet. Clear silhouette and grounded feet, convincing volume and overlapping forms painted with deliberate pixel clusters. Medium detail, selective dark colored outline, upper-left lighting, moderately saturated slightly muted fantasy colors. Transparent background, centered single person with the entire body visible. No scenery, text, labels, UI, border or poster composition. No 3D render, pixelated 3D model, photo realism, smooth painting, antialiasing, blur, vector art, anime character sheet, thick black outlines, flat-only shading, neon colors or noisy tiny details. No isometric or side-scroller view.",
+  "body_type": "humanoid",
+  "mode": "standard",
+  "n_directions": 8,
+  "proportions": "{\"type\": \"preset\", \"name\": \"realistic_male\"}",
+  "size": 128,
+  "outline": "selective outline",
+  "shading": "medium shading",
+  "detail": "medium detail",
+  "view": "low top-down"
+}

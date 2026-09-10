@@ -1,0 +1,32 @@
+{
+  "tool": "animate_character",
+  "arguments": {
+    "character_id": "7b57215c-7d1f-48f1-8acf-d4fbbdba3631",
+    "mode": "template",
+    "template_animation_id": "running-8-frames",
+    "animation_name": "traveler_01_run_v1",
+    "directions": [
+      "south",
+      "south-west",
+      "west",
+      "north-west",
+      "north",
+      "north-east",
+      "east",
+      "south-east"
+    ],
+    "ai_freedom": 0
+  },
+  "fingerprint": "de09259503ce629c94745e94b73be6f71ae44bd579da665e0dc64e9972800a7c",
+  "submitted_at": "2026-09-10T22:23:46.002247+00:00",
+  "status": "returned",
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "error: need 8 job slots but only 0 available (8/8 used)\n\nhint: wait for 8 jobs to finish (~2-4 min each)"
+      }
+    ],
+    "isError": true
+  }
+}

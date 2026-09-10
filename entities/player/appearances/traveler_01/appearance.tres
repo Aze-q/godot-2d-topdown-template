@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PlayerAppearance" load_steps=3 format=3]
+
+[ext_resource type="Script" path="res://entities/player/player_appearance.gd" id="1"]
+[ext_resource type="SpriteFrames" path="res://entities/player/appearances/traveler_01/sprite_frames.tres" id="2"]
+
+[resource]
+script = ExtResource("1")
+appearance_id = &"traveler_01"
+sprite_frames = ExtResource("2")
+display_scale = 1.0
+draw_offset = Vector2(-90, -174)

@@ -1,0 +1,284 @@
+{
+  "appearance_id": "traveler_01",
+  "revision": 1,
+  "state": "candidate_requires_visual_revision",
+  "provider": "pixellab_official_mcp",
+  "character_id": "7b57215c-7d1f-48f1-8acf-d4fbbdba3631",
+  "requested_sprite_size": 128,
+  "view": "low top-down",
+  "body_family": "adult_traveler_v1",
+  "creation_mode": "standard",
+  "mirror_directions": false,
+  "directions": [
+    "south",
+    "south-west",
+    "west",
+    "north-west",
+    "north",
+    "north-east",
+    "east",
+    "south-east"
+  ],
+  "animation_provider_map": {
+    "idle": "breathing-idle",
+    "run": "running-8-frames"
+  },
+  "planned_generation_units": 17,
+  "actual_generation_units": null,
+  "accepted_revision": null,
+  "requests": {
+    "create": "source/create_request.json",
+    "create_receipt": "source/create_receipt.json",
+    "idle": "source/idle_request.json",
+    "idle_receipt": "source/idle_receipt.json",
+    "run": "source/run_request.json",
+    "run_rejected_receipt": "source/run_receipt.json",
+    "status": "source/status_request.json",
+    "status_receipt": "source/status_receipt.json",
+    "run_receipt": "source/run_attempt_02_receipt.json",
+    "original_brief": "source/brief.json",
+    "balance_before": "source/balance_before.json",
+    "balance_after_submission": "source/balance_after_submission.json",
+    "balance_after_completion": "source/balance_after_completion.json"
+  },
+  "validation": {
+    "rotations": "8/8 PNG readable; RGBA alpha 0/255; no edge clipping; visible height 148–152 px",
+    "animations": "File checks pass: idle 8x4 and run 8x8, 180x180, no partial alpha or border clipping. Run visual review FAILED; see visual_defects.",
+    "godot_import": "PASS: Godot 4.7.2 imported and rendered all 16 clips/96 textures; final atlases match raw ZIP pixels exactly.",
+    "visual_review": "Appearance choice pending; run rejected for direction reversals and invented accessories. Not accepted for gameplay.",
+    "ground_alignment": "needs revision: native Godot preview confirms uneven stance between directions and up to 3px idle sole drift",
+    "runtime_warnings": "2 ObjectDB instances/1 resource at exit; also reproduced without loading any new character in baseline SceneTree",
+    "main_player_integration": "not performed: independent appearance preview only",
+    "map_scale": "not validated; preview uses native 1x"
+  },
+  "actual_rotation_canvas": [
+    180,
+    180
+  ],
+  "style_version": "guiliu_pixel_v1",
+  "action_pack_version": "idle_run_official_v1",
+  "animation_groups": {
+    "idle": "b31181dc-a2ad-4625-8375-f7312f717ccb",
+    "run": "a7eb9189-a907-4a14-adb0-65c98657b6e7"
+  },
+  "run_submission": {
+    "state": "accepted_attempt_02",
+    "previous_attempt": "source/run_receipt.json",
+    "reason_for_new_attempt": "previous request explicitly rejected before creating jobs; idle now complete"
+  },
+  "queue_limit_observed": 8,
+  "import_settings": {
+    "source_animation_names": {
+      "idle": "traveler_01_idle_v1",
+      "run": "traveler_01_run_v1"
+    },
+    "preview_fps": {
+      "idle": 4,
+      "run": 12
+    },
+    "display_scale": 1,
+    "ground_origin_px": [
+      90,
+      174
+    ],
+    "note": "Provisional visual preview settings, not official timing or final map scale; preserve all source frame coordinates."
+  },
+  "last_import": {
+    "actions": [
+      "idle",
+      "run"
+    ],
+    "source_archive": "source/character_export.zip",
+    "directional_clips": 16,
+    "frames": 96,
+    "canvas": [
+      180,
+      180
+    ],
+    "source_pixels_preserved": true
+  },
+  "quota_observation": {
+    "remaining_before": 2000,
+    "remaining_after_submission": 1966,
+    "used_before": 0,
+    "used_after_submission": 34,
+    "account_delta_after_submission": 34,
+    "expected_from_tool_description": 17,
+    "note": "Final observed account balance delta is 36. Per-job billing breakdown unavailable; 34 was the unfinished-job snapshot, not final cost.",
+    "remaining_after_completion": 1964,
+    "used_after_completion": 36,
+    "account_delta_after_completion": 36
+  },
+  "observed_complete_at": "2026-09-10T22:48:12.656486+00:00",
+  "visual_defects": [
+    {
+      "action": "run",
+      "direction": "south",
+      "frames_zero_based": [
+        2,
+        7
+      ],
+      "issue": "Back-facing image inside south-facing animation",
+      "severity": "reject"
+    },
+    {
+      "action": "run",
+      "direction": "north",
+      "frames_zero_based": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "issue": "Front-facing image inside north-facing animation",
+      "severity": "reject"
+    },
+    {
+      "action": "run",
+      "direction": "east",
+      "frames_zero_based": [
+        0,
+        1
+      ],
+      "issue": "Large brown backpack absent from the approved appearance brief/reference",
+      "severity": "reject"
+    },
+    {
+      "action": "run",
+      "direction": "east",
+      "frames_zero_based": [
+        3
+      ],
+      "issue": "Scarf grows into a long trailing ribbon",
+      "severity": "review"
+    },
+    {
+      "action": "run",
+      "direction": "north-west",
+      "frames_zero_based": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "issue": "Angle drifts from side to rear diagonal during the cycle",
+      "severity": "review"
+    }
+  ],
+  "visual_quality_counts": {
+    "run_frames": 64,
+    "known_wrong_direction_frames": 6,
+    "known_invented_backpack_frames": 2,
+    "known_hard_failures_minimum": 8,
+    "accepted_run": false,
+    "note": "Minimum identified defects, not a claim that the other 56 frames pass every criterion."
+  },
+  "artwork_corrections_applied": false,
+  "next_steps": [
+    "Resolve appearance choice (short cape and maturity).",
+    "Replace or repair the rejected run template; test a single direction before expanding eight directions.",
+    "Calibrate stance/ground offsets and actual map scale before enabling an appearance.",
+    "Integrate PlayerVisual into the shared PlayerEntity while migrating the corresponding action clock."
+  ],
+  "runtime_assets": {
+    "idle.png": "9ccf49b1362b77e17fb5815c9bf0c773099db6d275f470c0d8e0c2c463259499",
+    "run.png": "752b9c8c50dfa3372ba7f93bc4519923f217eb601cd9f0ef200f003537ef20fd",
+    "sprite_frames.tres": "7841453e7a209e8ddb07ae4414c169ca438f798d6fa47311b206b3d9360102ee",
+    "appearance.tres": "3577f50e3d1d1882f4fcde74d2c70319704de7e17c932798e94bacb32839ceec"
+  },
+  "runtime_rig_trial": {
+    "state": "technical_prototype_visual_not_accepted",
+    "authorization": "User approved limited layering and a runtime skeleton comparison; production architecture decision pending.",
+    "scene": "res://entities/player/rig_trial.tscn",
+    "implementation": "res://entities/player/rig_trial_character.gd",
+    "directions": [
+      "se",
+      "ne"
+    ],
+    "bones_per_view": 11,
+    "rigid_polygon_parts_per_view": 11,
+    "shared_animation_library_clips": [
+      "lower_idle",
+      "lower_run",
+      "upper_idle",
+      "upper_run",
+      "upper_sword",
+      "upper_bow"
+    ],
+    "demonstrations": [
+      "idle",
+      "run",
+      "sword",
+      "bow_upper_lower_separation"
+    ],
+    "new_pixellab_calls": 0,
+    "assets": [
+      {
+        "path": "rig_trial/se.png",
+        "source": "source/rotations/south-east.png",
+        "sha256": "5054d80f9fe7dd1b8014d85ae88b5aaeeede37652404216c037ff95bd3872d37",
+        "png_bytes": 4780,
+        "canvas": [
+          180,
+          180
+        ]
+      },
+      {
+        "path": "rig_trial/ne.png",
+        "source": "source/rotations/north-east.png",
+        "sha256": "eb8f478b32b91739b16e41e6a2979c3405fab3c2deec440855da515e3d7c8a5f",
+        "png_bytes": 4456,
+        "canvas": [
+          180,
+          180
+        ]
+      }
+    ],
+    "part_preparation": "Manually authored polygon/UV partitions of unchanged source PNGs; not automatic segmentation or hidden-area reconstruction.",
+    "technique": "Skeleton2D/Bone2D with Polygon2D; every vertex assigned weight 1 to one bone. No image frame changes on rig side.",
+    "test_script": "res://tools/characters/verify_rig_trial.gd",
+    "technical_checks": {
+      "passed": 11,
+      "total": 11,
+      "exit_code": 0
+    },
+    "godot": "4.7.2.stable.official.ed1daf0bf",
+    "rendering": {
+      "backend": "OpenGL Compatibility / Apple M5",
+      "native_scale": 1,
+      "rig_pixels_changed_between_run_samples": 3707,
+      "sample_seconds": [
+        0.18,
+        0.4
+      ],
+      "region_xyxy": [
+        680,
+        230,
+        940,
+        700
+      ],
+      "screenshot_directory": "source/rig_trial_review"
+    },
+    "texture_storage": {
+      "compressed_png_bytes": 9236,
+      "rgba8_canvas_bytes": 259200,
+      "note": "Two body textures only; excludes mesh/animation/draw overhead. Not a measured GPU-memory or performance result. Preview also loads all existing frame atlases."
+    },
+    "limitations": [
+      "Hidden body areas are missing; moving cuts show gaps and attached accessory fragments.",
+      "Elbow/knee pivots and perspective need direction-specific authoring.",
+      "No foot locking; gait has sliding and incorrect ground contact.",
+      "Bow is only an upper/lower independence study: no two-hand IK, full strafe gait or release.",
+      "Sword uses a line placeholder; weapon perspective and layer transitions are unfinished.",
+      "Only two directions of one appearance; no second-character retarget or eight-direction quality acceptance.",
+      "Fixed light rotates with limbs and pixel edges change during rotation.",
+      "Existing sprite run is rejected candidate art, not a gold-standard comparison.",
+      "Not integrated with PlayerEntity, combat or networking."
+    ],
+    "runtime_debug": "Godot MCP scene startup errors=[]; CLI exit repeats existing 2 ObjectDB / 1 resource warnings. Sandbox headless check also logs system CA access error."
+  }
+}

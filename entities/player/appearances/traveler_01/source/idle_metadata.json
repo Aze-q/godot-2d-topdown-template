@@ -1,0 +1,87 @@
+{
+  "group_id": "255dda38-f574-4861-8b66-2960150162f5",
+  "states": [
+    {
+      "character": {
+        "id": "7b57215c-7d1f-48f1-8acf-d4fbbdba3631",
+        "name": "Idle",
+        "prompt": "Hand-crafted pure 2D pixel art for a fantasy exploration action RPG. A single full-body young male traveler, about 23, slim and athletic with natural adult proportions, not chibi. Slightly tousled short-to-medium dark brown almost black hair, a clean mature face and a calm observant expression. Short warm-gray travel shoulder cape above the elbows, blue-gray scarf, light-gray inner shirt, dark gray-brown travel tunic, brown leather belt with one small practical tool pouch and a simple travel charm, dark trousers, worn brown leather boots and light leather wrist guards. Understated, reliable, experienced explorer. Empty relaxed hands, no weapons, no shield, no staff, no class insignia, no shoulder armor. Low top-down three-quarter RPG view, visible head top and readable face, shoulders, torso, arms, legs and feet. Clear silhouette and grounded feet, convincing volume and overlapping forms painted with deliberate pixel clusters. Medium detail, selective dark colored outline, upper-left lighting, moderately saturated slightly muted fantasy colors. Transparent background, centered single person with the entire body visible. No scenery, text, labels, UI, border or poster composition. No 3D render, pixelated 3D model, photo realism, smooth painting, antialiasing, blur, vector art, anime character sheet, thick black outlines, flat-only shading, neon colors or noisy tiny details. No isometric or side-scroller view.",
+        "size": {
+          "width": 180,
+          "height": 180
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-09-10T22:17:26.235740+00:00"
+      },
+      "folder": "Idle",
+      "frames": {
+        "rotations": {
+          "south": "Idle/rotations/south.png",
+          "south-east": "Idle/rotations/south-east.png",
+          "east": "Idle/rotations/east.png",
+          "north-east": "Idle/rotations/north-east.png",
+          "north": "Idle/rotations/north.png",
+          "north-west": "Idle/rotations/north-west.png",
+          "west": "Idle/rotations/west.png",
+          "south-west": "Idle/rotations/south-west.png"
+        },
+        "animations": {
+          "traveler_01_idle_v1": {
+            "north-east": [
+              "Idle/animations/traveler_01_idle_v1/north-east/frame_000.png",
+              "Idle/animations/traveler_01_idle_v1/north-east/frame_001.png",
+              "Idle/animations/traveler_01_idle_v1/north-east/frame_002.png",
+              "Idle/animations/traveler_01_idle_v1/north-east/frame_003.png"
+            ],
+            "west": [
+              "Idle/animations/traveler_01_idle_v1/west/frame_000.png",
+              "Idle/animations/traveler_01_idle_v1/west/frame_001.png",
+              "Idle/animations/traveler_01_idle_v1/west/frame_002.png",
+              "Idle/animations/traveler_01_idle_v1/west/frame_003.png"
+            ],
+            "south-east": [
+              "Idle/animations/traveler_01_idle_v1/south-east/frame_000.png",
+              "Idle/animations/traveler_01_idle_v1/south-east/frame_001.png",
+              "Idle/animations/traveler_01_idle_v1/south-east/frame_002.png",
+              "Idle/animations/traveler_01_idle_v1/south-east/frame_003.png"
+            ],
+            "north-west": [
+              "Idle/animations/traveler_01_idle_v1/north-west/frame_000.png",
+              "Idle/animations/traveler_01_idle_v1/north-west/frame_001.png",
+              "Idle/animations/traveler_01_idle_v1/north-west/frame_002.png",
+              "Idle/animations/traveler_01_idle_v1/north-west/frame_003.png"
+            ],
+            "north": [
+              "Idle/animations/traveler_01_idle_v1/north/frame_000.png",
+              "Idle/animations/traveler_01_idle_v1/north/frame_001.png",
+              "Idle/animations/traveler_01_idle_v1/north/frame_002.png",
+              "Idle/animations/traveler_01_idle_v1/north/frame_003.png"
+            ],
+            "east": [
+              "Idle/animations/traveler_01_idle_v1/east/frame_000.png",
+              "Idle/animations/traveler_01_idle_v1/east/frame_001.png",
+              "Idle/animations/traveler_01_idle_v1/east/frame_002.png",
+              "Idle/animations/traveler_01_idle_v1/east/frame_003.png"
+            ],
+            "south-west": [
+              "Idle/animations/traveler_01_idle_v1/south-west/frame_000.png",
+              "Idle/animations/traveler_01_idle_v1/south-west/frame_001.png",
+              "Idle/animations/traveler_01_idle_v1/south-west/frame_002.png",
+              "Idle/animations/traveler_01_idle_v1/south-west/frame_003.png"
+            ],
+            "south": [
+              "Idle/animations/traveler_01_idle_v1/south/frame_000.png",
+              "Idle/animations/traveler_01_idle_v1/south/frame_001.png",
+              "Idle/animations/traveler_01_idle_v1/south/frame_002.png",
+              "Idle/animations/traveler_01_idle_v1/south/frame_003.png"
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-09-10T22:27:19.439996"
+}

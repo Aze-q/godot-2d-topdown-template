@@ -1,0 +1,32 @@
+{
+  "tool": "animate_character",
+  "arguments": {
+    "character_id": "7b57215c-7d1f-48f1-8acf-d4fbbdba3631",
+    "mode": "template",
+    "template_animation_id": "breathing-idle",
+    "animation_name": "traveler_01_idle_v1",
+    "directions": [
+      "south",
+      "south-west",
+      "west",
+      "north-west",
+      "north",
+      "north-east",
+      "east",
+      "south-east"
+    ],
+    "ai_freedom": 0
+  },
+  "fingerprint": "a3bb95c045f8ea1a787ad629f24d696d8fe6be33d3f0c7a55aa6290de8709202",
+  "submitted_at": "2026-09-10T22:23:22.265891+00:00",
+  "status": "returned",
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "character: 7b57215c-7d1f-48f1-8acf-d4fbbdba3631\nanimation: breathing-idle\ndirections: south, south-west, west, north-west, north, north-east, east, south-east (8 jobs)\ngroup: b31181dc-a2ad-4625-8375-f7312f717ccb\neta: ~2-4 min\nadd more directions to this group: animate_character(character_id=\"7b57215c-7d1f-48f1-8acf-d4fbbdba3631\", template_animation_id=\"breathing-idle\", animation_group_id=\"b31181dc-a2ad-4625-8375-f7312f717ccb\", directions=[...])\n\nhint: get_character(character_id=\"7b57215c-7d1f-48f1-8acf-d4fbbdba3631\")\nif poor: delete_animation(character_id=\"7b57215c-7d1f-48f1-8acf-d4fbbdba3631\", animation_type=\"...\") then retry with mode=\"v3\""
+      }
+    ],
+    "isError": false
+  }
+}

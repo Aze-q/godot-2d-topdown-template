@@ -1,0 +1,16 @@
+{
+  "godot_version": "4.7.2.stable.official.ed1daf0bf",
+  "directional_clips": 16,
+  "animation_frames": 96,
+  "runtime_texture_load": "passed",
+  "atlas_pixel_comparison": "96/96 exact",
+  "visual_review": "failed: see production.json",
+  "receipt_tests": "7 passed",
+  "baseline_exit_warning": "2 ObjectDB instances and 1 resource at exit also reproduced without loading new character assets",
+  "engine_screenshots": [
+    "godot_idle_preview.png",
+    "godot_run_preview.png"
+  ],
+  "godot_mcp_preview": "launched appearance_preview.tscn; live preview supports Space (idle/run) and P (pause)",
+  "preview_warning_fix": "Explicit floor for grid rows removed the two integer-division warnings."
+}

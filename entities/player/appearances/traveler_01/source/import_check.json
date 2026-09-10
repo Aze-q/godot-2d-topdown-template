@@ -1,0 +1,1832 @@
+{
+  "source_archive": "character_export.zip",
+  "archive_sha256": "84a74abfd6485cdb25737811233473a901cb332a1ffbdd8ff0666a7465d90abf",
+  "frame_count": 96,
+  "frames": [
+    {
+      "action": "idle",
+      "direction": "south",
+      "frame": 0,
+      "source": "Idle/animations/traveler_01_idle_v1/south/frame_000.png",
+      "sha256": "8f25f64fcb8ca644b22cc423f978a3490b9af31781dddd12efb60214e3a79648",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        67,
+        25,
+        115,
+        166
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "idle",
+      "direction": "south",
+      "frame": 1,
+      "source": "Idle/animations/traveler_01_idle_v1/south/frame_001.png",
+      "sha256": "335a870bbc3e7de7dde11a8381f6f3fb22985af7f49f45997ad72d137bbcbfaa",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        67,
+        23,
+        116,
+        166
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "idle",
+      "direction": "south",
+      "frame": 2,
+      "source": "Idle/animations/traveler_01_idle_v1/south/frame_002.png",
+      "sha256": "3474b5f71510cad3b0e659a06664137c99b337eda55006fcbb7132f62031471b",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        67,
+        22,
+        114,
+        165
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "idle",
+      "direction": "south",
+      "frame": 3,
+      "source": "Idle/animations/traveler_01_idle_v1/south/frame_003.png",
+      "sha256": "eb50b64d809ba8314cf81942376d13d524af0254074bcbd456802844eaf04783",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        67,
+        24,
+        115,
+        166
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "idle",
+      "direction": "south-east",
+      "frame": 0,
+      "source": "Idle/animations/traveler_01_idle_v1/south-east/frame_000.png",
+      "sha256": "705f68f6df80bfac56a8f0e85f946e7bd4e322ccb759c6ab4b40144a2bb4a1ae",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        70,
+        24,
+        116,
+        174
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "idle",
+      "direction": "south-east",
+      "frame": 1,
+      "source": "Idle/animations/traveler_01_idle_v1/south-east/frame_001.png",
+      "sha256": "7213cd66dfdbb66868668aaca3868ae7d0ee4db663ce5c6521a39953b37cb1f4",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        70,
+        23,
+        115,
+        173
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "idle",
+      "direction": "south-east",
+      "frame": 2,
+      "source": "Idle/animations/traveler_01_idle_v1/south-east/frame_002.png",
+      "sha256": "b30e808cc57ce9a161ba8802a3bc557a6e17a33db82078cbc41883c171103fe1",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        70,
+        22,
+        113,
+        171
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "idle",
+      "direction": "south-east",
+      "frame": 3,
+      "source": "Idle/animations/traveler_01_idle_v1/south-east/frame_003.png",
+      "sha256": "3c4f8db4ad135d98ecfe3430a1ac71b750d1ca02a006410ec35af0e2f181e775",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        70,
+        24,
+        114,
+        172
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "idle",
+      "direction": "east",
+      "frame": 0,
+      "source": "Idle/animations/traveler_01_idle_v1/east/frame_000.png",
+      "sha256": "55f54da7599aec7100a96a7b1db789cff914af072e459f110f28ee8f986d84f7",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        74,
+        22,
+        111,
+        171
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "idle",
+      "direction": "east",
+      "frame": 1,
+      "source": "Idle/animations/traveler_01_idle_v1/east/frame_001.png",
+      "sha256": "a98c5d58508fdbc06d7359bff41300a517b7249f02cc47e1a01c04fd84eceac8",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        74,
+        21,
+        111,
+        171
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "idle",
+      "direction": "east",
+      "frame": 2,
+      "source": "Idle/animations/traveler_01_idle_v1/east/frame_002.png",
+      "sha256": "58c387f68785931704be4d1f1482ec23fcd4bbc8a2540cd1e0269439ef79ec20",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        73,
+        19,
+        109,
+        168
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "idle",
+      "direction": "east",
+      "frame": 3,
+      "source": "Idle/animations/traveler_01_idle_v1/east/frame_003.png",
+      "sha256": "442e916d6bbfa194e8a94bf5e20294671edbe4f682c8c6734f2d8cb4ad5e7b45",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        73,
+        19,
+        109,
+        168
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "idle",
+      "direction": "north-east",
+      "frame": 0,
+      "source": "Idle/animations/traveler_01_idle_v1/north-east/frame_000.png",
+      "sha256": "68573b1ac55588366509330620b56fc3f16da08b2b49f3d64288253248c2b8f1",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        67,
+        22,
+        111,
+        171
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "idle",
+      "direction": "north-east",
+      "frame": 1,
+      "source": "Idle/animations/traveler_01_idle_v1/north-east/frame_001.png",
+      "sha256": "0f06d8d64fdf252266856e177ae41be0b93078d624db643f60f111729619e2ee",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        67,
+        22,
+        111,
+        171
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "idle",
+      "direction": "north-east",
+      "frame": 2,
+      "source": "Idle/animations/traveler_01_idle_v1/north-east/frame_002.png",
+      "sha256": "0e7efa2ecde06fbf37cbe9ffc686aba7f6ac51bde90067bc767da40d00214c71",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        68,
+        21,
+        110,
+        168
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "idle",
+      "direction": "north-east",
+      "frame": 3,
+      "source": "Idle/animations/traveler_01_idle_v1/north-east/frame_003.png",
+      "sha256": "52622faa75d9fad5238cdef31b3d794ef82e15c36a2eb47ec541b90597499eb0",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        67,
+        21,
+        109,
+        168
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "idle",
+      "direction": "north",
+      "frame": 0,
+      "source": "Idle/animations/traveler_01_idle_v1/north/frame_000.png",
+      "sha256": "85b1c6b007a97e3bed41e60a7e9b4fe63157565487ad36f617737bd17ce1d5f0",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        68,
+        24,
+        114,
+        166
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "idle",
+      "direction": "north",
+      "frame": 1,
+      "source": "Idle/animations/traveler_01_idle_v1/north/frame_001.png",
+      "sha256": "ddad17c705650a6cd2618df62ba5bbf51cf89d603f9614a96527781223cbd018",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        68,
+        25,
+        113,
+        166
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "idle",
+      "direction": "north",
+      "frame": 2,
+      "source": "Idle/animations/traveler_01_idle_v1/north/frame_002.png",
+      "sha256": "3e8471b86ce5cc4dfbb22e067fa4e5ae5803a95665db2babe00fc6fd9fe078f6",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        68,
+        24,
+        113,
+        165
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "idle",
+      "direction": "north",
+      "frame": 3,
+      "source": "Idle/animations/traveler_01_idle_v1/north/frame_003.png",
+      "sha256": "4bec74e56ad2cbe346c77f4c0ff129563fd1883b9356eae2522aaba6951a4468",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        68,
+        25,
+        114,
+        165
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "idle",
+      "direction": "north-west",
+      "frame": 0,
+      "source": "Idle/animations/traveler_01_idle_v1/north-west/frame_000.png",
+      "sha256": "04e29833eccd21c8d5c9bab45bdc897c2cce2a7049289c65735087f992f30785",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        66,
+        23,
+        112,
+        174
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "idle",
+      "direction": "north-west",
+      "frame": 1,
+      "source": "Idle/animations/traveler_01_idle_v1/north-west/frame_001.png",
+      "sha256": "6b8cedae2dad4de4775b452bdac8864332decba4326f5c06a4a16cc06ac42c5c",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        65,
+        22,
+        112,
+        173
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "idle",
+      "direction": "north-west",
+      "frame": 2,
+      "source": "Idle/animations/traveler_01_idle_v1/north-west/frame_002.png",
+      "sha256": "e65f17066ab9f4bdfb5d491270d3d6748b436fcd460b54827bfddfac4dc4a2d9",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        66,
+        23,
+        112,
+        172
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "idle",
+      "direction": "north-west",
+      "frame": 3,
+      "source": "Idle/animations/traveler_01_idle_v1/north-west/frame_003.png",
+      "sha256": "1a68c37e5399e467b8e56f2788a3d9706413954430c1900d9674b705f9328d05",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        66,
+        23,
+        112,
+        172
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "idle",
+      "direction": "west",
+      "frame": 0,
+      "source": "Idle/animations/traveler_01_idle_v1/west/frame_000.png",
+      "sha256": "ded282c9e3115c70eb1c3debb87bf4a2690e19da1462ed2cb35cd7fcd444955c",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        70,
+        22,
+        106,
+        172
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "idle",
+      "direction": "west",
+      "frame": 1,
+      "source": "Idle/animations/traveler_01_idle_v1/west/frame_001.png",
+      "sha256": "927926a00ea2d9c83002576208ecca43a3571cc6fdbf7614a4ecac60f69f5988",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        70,
+        22,
+        106,
+        172
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "idle",
+      "direction": "west",
+      "frame": 2,
+      "source": "Idle/animations/traveler_01_idle_v1/west/frame_002.png",
+      "sha256": "ce7a48cf509da6e0324500fd600a6287336e440c2b4d2bf2f0b62460d62cb17b",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        71,
+        22,
+        106,
+        172
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "idle",
+      "direction": "west",
+      "frame": 3,
+      "source": "Idle/animations/traveler_01_idle_v1/west/frame_003.png",
+      "sha256": "b8b2c4012c7db9173490ba0625c212ea6f67dcbbd9972c12c3b3347248cc924d",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        70,
+        22,
+        106,
+        172
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "idle",
+      "direction": "south-west",
+      "frame": 0,
+      "source": "Idle/animations/traveler_01_idle_v1/south-west/frame_000.png",
+      "sha256": "34e4d5d8411481f78ca8759692f28c34f52ba50d88f2e96bb2fcca1a2fd2d165",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        70,
+        23,
+        113,
+        174
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "idle",
+      "direction": "south-west",
+      "frame": 1,
+      "source": "Idle/animations/traveler_01_idle_v1/south-west/frame_001.png",
+      "sha256": "023285dc26909bd0eb74d4c5a26b25b40387ec069716c65d47a77aac34d2ef83",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        70,
+        22,
+        112,
+        173
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "idle",
+      "direction": "south-west",
+      "frame": 2,
+      "source": "Idle/animations/traveler_01_idle_v1/south-west/frame_002.png",
+      "sha256": "dae54651361e4bde0ead8c028417901972fed2ad5b14b12ff136f1b823583cff",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        71,
+        21,
+        112,
+        171
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "idle",
+      "direction": "south-west",
+      "frame": 3,
+      "source": "Idle/animations/traveler_01_idle_v1/south-west/frame_003.png",
+      "sha256": "dd4530555ad9e34caefe8e9f3004e45fd2364bfa3205b7248b89936628893977",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        71,
+        22,
+        112,
+        171
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "south",
+      "frame": 0,
+      "source": "Idle/animations/traveler_01_run_v1/south/frame_000.png",
+      "sha256": "d60a69736a5a097bbe85505c2da62272a263f7c3317ddb9f0f09789439793c40",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        59,
+        18,
+        118,
+        169
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "south",
+      "frame": 1,
+      "source": "Idle/animations/traveler_01_run_v1/south/frame_001.png",
+      "sha256": "df369d55e1f3e6e6469dffacfbe14238e7f44b6973d569177f8504fad172935d",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        55,
+        21,
+        115,
+        166
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "south",
+      "frame": 2,
+      "source": "Idle/animations/traveler_01_run_v1/south/frame_002.png",
+      "sha256": "cebe90e556ff3b6c0206feadedb1b3e4e70d71093e0af6096b14073ef1a99f32",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        57,
+        23,
+        113,
+        167
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "south",
+      "frame": 3,
+      "source": "Idle/animations/traveler_01_run_v1/south/frame_003.png",
+      "sha256": "69d94ba90626203591e3dfd70da55bed3021f7224828f0d0c87c364eda4e511e",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        61,
+        21,
+        116,
+        163
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "south",
+      "frame": 4,
+      "source": "Idle/animations/traveler_01_run_v1/south/frame_004.png",
+      "sha256": "e4d95072e082a90d5c1008a8a5ea0551663820c2e0652231b0630e256ba13ac2",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        63,
+        20,
+        123,
+        151
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "south",
+      "frame": 5,
+      "source": "Idle/animations/traveler_01_run_v1/south/frame_005.png",
+      "sha256": "3efe91eae3b6384678795dfd0bde830cc25eeb2a0891d3295e741640f78ccbaf",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        65,
+        19,
+        124,
+        161
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "south",
+      "frame": 6,
+      "source": "Idle/animations/traveler_01_run_v1/south/frame_006.png",
+      "sha256": "6367d4bf193882327b91777b5e6f387702228b172bad4b62c1738e12e4fdd0b1",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        64,
+        24,
+        125,
+        170
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "south",
+      "frame": 7,
+      "source": "Idle/animations/traveler_01_run_v1/south/frame_007.png",
+      "sha256": "dfaf70896dbd528e7ba861a30db1c6637bfb8025c543767a31b3b578c261f8fb",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        62,
+        25,
+        121,
+        163
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "south-east",
+      "frame": 0,
+      "source": "Idle/animations/traveler_01_run_v1/south-east/frame_000.png",
+      "sha256": "9e727ed5f417b9bb1325e320a45823b894c8cc15154546edf06ef703a14bee78",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        51,
+        39,
+        115,
+        162
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "south-east",
+      "frame": 1,
+      "source": "Idle/animations/traveler_01_run_v1/south-east/frame_001.png",
+      "sha256": "e684eee9ebcddb9085c6ddff8ed180b80dcb1dcca49b568ffee295fe8391197c",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        40,
+        39,
+        119,
+        164
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "south-east",
+      "frame": 2,
+      "source": "Idle/animations/traveler_01_run_v1/south-east/frame_002.png",
+      "sha256": "406ef421b291335e837ced7b4e38a796c55d280dc89a83f02c84fcf997d53cc0",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        42,
+        40,
+        124,
+        165
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "south-east",
+      "frame": 3,
+      "source": "Idle/animations/traveler_01_run_v1/south-east/frame_003.png",
+      "sha256": "f882377b59b415ab2b7c8994c6d2ccf19a7dbb794a1a8ff22fd1f665187f9a69",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        59,
+        32,
+        113,
+        163
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "south-east",
+      "frame": 4,
+      "source": "Idle/animations/traveler_01_run_v1/south-east/frame_004.png",
+      "sha256": "08d1e62328a18d92e9b5ce38f89d83cc4379d5da953cc0a1535eec17715cc155",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        53,
+        33,
+        130,
+        155
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "south-east",
+      "frame": 5,
+      "source": "Idle/animations/traveler_01_run_v1/south-east/frame_005.png",
+      "sha256": "c56a2e7721eef2ea953985116165f75865bf5cbb30224918925b1d856032b52b",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        44,
+        32,
+        126,
+        164
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "south-east",
+      "frame": 6,
+      "source": "Idle/animations/traveler_01_run_v1/south-east/frame_006.png",
+      "sha256": "2a484bcbcb9b26d2e3f59187d1058f300b9895701d669723648d0fe31af2abf7",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        47,
+        45,
+        118,
+        168
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "south-east",
+      "frame": 7,
+      "source": "Idle/animations/traveler_01_run_v1/south-east/frame_007.png",
+      "sha256": "0bb977e45259fce1af15e3bb96d6c0f86a01e2b1fabb983b620a92a91df5e9b7",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        60,
+        46,
+        113,
+        168
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "east",
+      "frame": 0,
+      "source": "Idle/animations/traveler_01_run_v1/east/frame_000.png",
+      "sha256": "43bea8ae9bf908df2d2a88edfb20d42eca11675dad18de9531deda90f2b63309",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        47,
+        24,
+        115,
+        171
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "east",
+      "frame": 1,
+      "source": "Idle/animations/traveler_01_run_v1/east/frame_001.png",
+      "sha256": "d89ccf994329bcd33db253f538bb1d4ff1342e800e6b17826d014cd790921003",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        30,
+        25,
+        115,
+        165
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "east",
+      "frame": 2,
+      "source": "Idle/animations/traveler_01_run_v1/east/frame_002.png",
+      "sha256": "e50a77def386876be03e0b8f4bb00c955abcd71c225c362df6c68a355a4d50ce",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        34,
+        30,
+        125,
+        161
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "east",
+      "frame": 3,
+      "source": "Idle/animations/traveler_01_run_v1/east/frame_003.png",
+      "sha256": "6a6241adb2356d4f8c9da63c6f356487eb7c04eb9e95a060d333eb411dfc268d",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        30,
+        32,
+        113,
+        162
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "east",
+      "frame": 4,
+      "source": "Idle/animations/traveler_01_run_v1/east/frame_004.png",
+      "sha256": "178730a8fa4c46733894c385258afb9922d3d2595f9b3fb4ddb3654bf57956d1",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        39,
+        27,
+        123,
+        168
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "east",
+      "frame": 5,
+      "source": "Idle/animations/traveler_01_run_v1/east/frame_005.png",
+      "sha256": "0da0a465a266e1b07024371fe8a48ed244ac0370d9f5d2358158c11bae3c1cc5",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        23,
+        29,
+        125,
+        166
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "east",
+      "frame": 6,
+      "source": "Idle/animations/traveler_01_run_v1/east/frame_006.png",
+      "sha256": "d905576c976bdcb0bb0e29015bad2164da25274277fc98a63c511c339e26fdec",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        32,
+        30,
+        131,
+        169
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "east",
+      "frame": 7,
+      "source": "Idle/animations/traveler_01_run_v1/east/frame_007.png",
+      "sha256": "27382591920b1349233f285201f94faa0237da8b1cfa83a3ec175814e79862a9",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        48,
+        31,
+        117,
+        169
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "north-east",
+      "frame": 0,
+      "source": "Idle/animations/traveler_01_run_v1/north-east/frame_000.png",
+      "sha256": "6588ea091e7e38c7e2b92486676fc5c7a18a18e4b2a5cf87facbe814cfc1bd33",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        53,
+        26,
+        127,
+        173
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "north-east",
+      "frame": 1,
+      "source": "Idle/animations/traveler_01_run_v1/north-east/frame_001.png",
+      "sha256": "132998adb68e2ae6b0c9dcd46880167f525fce83799cbe285a2aa1d27fd225d3",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        49,
+        25,
+        127,
+        171
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "north-east",
+      "frame": 2,
+      "source": "Idle/animations/traveler_01_run_v1/north-east/frame_002.png",
+      "sha256": "bc1b24a3567c00e195ff84729a55b2755c291a3494d0b54c7dec0d138a75c25a",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        57,
+        26,
+        120,
+        165
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "north-east",
+      "frame": 3,
+      "source": "Idle/animations/traveler_01_run_v1/north-east/frame_003.png",
+      "sha256": "0bfb0d8039aaee1676ee3e78a29cf1d19070ce90503c9211b446b141dcc6ff7d",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        61,
+        26,
+        116,
+        163
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "north-east",
+      "frame": 4,
+      "source": "Idle/animations/traveler_01_run_v1/north-east/frame_004.png",
+      "sha256": "7e1d898cf09ca678579bb7d508ed926d2ce0ab66e1ab19819394be9ca193df86",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        53,
+        27,
+        116,
+        169
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "north-east",
+      "frame": 5,
+      "source": "Idle/animations/traveler_01_run_v1/north-east/frame_005.png",
+      "sha256": "e0955261a18af8c7f81097a40c6f60c86197b40edd2da9f351c961aebd365065",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        39,
+        26,
+        122,
+        168
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "north-east",
+      "frame": 6,
+      "source": "Idle/animations/traveler_01_run_v1/north-east/frame_006.png",
+      "sha256": "bbf247a9f530119e42805b21e54fed64f842cdfd55253cbf3454335a879dd103",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        42,
+        28,
+        127,
+        160
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "north-east",
+      "frame": 7,
+      "source": "Idle/animations/traveler_01_run_v1/north-east/frame_007.png",
+      "sha256": "d94fa6398a03bbdfa0d3037bfd33ee44a621b7e3b3b4f201bddb66055a2a5eee",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        55,
+        30,
+        111,
+        167
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "north",
+      "frame": 0,
+      "source": "Idle/animations/traveler_01_run_v1/north/frame_000.png",
+      "sha256": "0abdbac2a1e8e1ac48053b92b2f1371e7dad7cfee90ae9489b5e1e5879116bc6",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        62,
+        28,
+        122,
+        171
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "north",
+      "frame": 1,
+      "source": "Idle/animations/traveler_01_run_v1/north/frame_001.png",
+      "sha256": "847f72a320fff4edf0bf66ffb404a15da5a4d71a18751f5c2418932e3e4dedbe",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        65,
+        29,
+        124,
+        170
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "north",
+      "frame": 2,
+      "source": "Idle/animations/traveler_01_run_v1/north/frame_002.png",
+      "sha256": "d9712b20f7c962498ade56fa9f19e9798fae2d918df455012311f4503bdee0e0",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        68,
+        32,
+        122,
+        172
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "north",
+      "frame": 3,
+      "source": "Idle/animations/traveler_01_run_v1/north/frame_003.png",
+      "sha256": "64d1b45af66a1c27205905887f7f234d2303fcb740a752e1526ee910a006a198",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        64,
+        30,
+        117,
+        166
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "north",
+      "frame": 4,
+      "source": "Idle/animations/traveler_01_run_v1/north/frame_004.png",
+      "sha256": "4b6b13a474badf3a22a67da29282aab9ed0d5821896f8f74fd8907fee7db85ed",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        55,
+        28,
+        116,
+        173
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "north",
+      "frame": 5,
+      "source": "Idle/animations/traveler_01_run_v1/north/frame_005.png",
+      "sha256": "a27e08880c49c429098b6c89aae1020fddc61bd301f070b54d810c32e216cfef",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        51,
+        28,
+        114,
+        168
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "north",
+      "frame": 6,
+      "source": "Idle/animations/traveler_01_run_v1/north/frame_006.png",
+      "sha256": "62ee743af2699c2f0cadff6ff0b83bcac38b1faabda003c6b2be86940050ee1a",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        56,
+        30,
+        116,
+        168
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "north",
+      "frame": 7,
+      "source": "Idle/animations/traveler_01_run_v1/north/frame_007.png",
+      "sha256": "a0f0ad706e79126bc707dd88b35c858f9e2c997f37f14ea3de565f67cdb98878",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        59,
+        32,
+        116,
+        168
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "north-west",
+      "frame": 0,
+      "source": "Idle/animations/traveler_01_run_v1/north-west/frame_000.png",
+      "sha256": "971a2a70752b71d270ecafd58acdd850d49de09e055e5bede6b1f7259275e869",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        67,
+        25,
+        126,
+        171
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "north-west",
+      "frame": 1,
+      "source": "Idle/animations/traveler_01_run_v1/north-west/frame_001.png",
+      "sha256": "d38d51a04b3a53b367bdb76c0e9dcb962de24e2355f74c2d7dcd1081db3d5a73",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        60,
+        26,
+        141,
+        174
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "north-west",
+      "frame": 2,
+      "source": "Idle/animations/traveler_01_run_v1/north-west/frame_002.png",
+      "sha256": "a88c7569fb0faf0764e1953dba3f449ecddeeae42f89fbf55b377084dd0dcdee",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        57,
+        30,
+        140,
+        163
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "north-west",
+      "frame": 3,
+      "source": "Idle/animations/traveler_01_run_v1/north-west/frame_003.png",
+      "sha256": "208a487691b673e307cd49a08fb3430a85cfffd66ed1caf0fbe209379d11b0e4",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        68,
+        30,
+        121,
+        166
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "north-west",
+      "frame": 4,
+      "source": "Idle/animations/traveler_01_run_v1/north-west/frame_004.png",
+      "sha256": "089d7d1a7d9ddb6a40bd5885df42af4b5908e1688a8d199372f2cb31912c89a1",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        50,
+        30,
+        126,
+        171
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "north-west",
+      "frame": 5,
+      "source": "Idle/animations/traveler_01_run_v1/north-west/frame_005.png",
+      "sha256": "e118f8f183216a9c1c7580b9eea2fac875bfd95f05d50c2ceeff9c9862e4f3c5",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        57,
+        29,
+        133,
+        172
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "north-west",
+      "frame": 6,
+      "source": "Idle/animations/traveler_01_run_v1/north-west/frame_006.png",
+      "sha256": "09a5f2d93217237ecb4eeb026f12df9c51d1ad704e9f43aa5cdb4710498c428b",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        57,
+        26,
+        130,
+        162
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "north-west",
+      "frame": 7,
+      "source": "Idle/animations/traveler_01_run_v1/north-west/frame_007.png",
+      "sha256": "c55f5d1b1d83e186545d5777c00c83ba89b9d477cc1f00281ca558c37db7ec36",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        69,
+        28,
+        121,
+        165
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "west",
+      "frame": 0,
+      "source": "Idle/animations/traveler_01_run_v1/west/frame_000.png",
+      "sha256": "2f83238b43fbd382019f8111477f9634d9aaf5a9147b59bf65975effb4f58739",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        60,
+        33,
+        134,
+        163
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "west",
+      "frame": 1,
+      "source": "Idle/animations/traveler_01_run_v1/west/frame_001.png",
+      "sha256": "556fbf599bfcfe59b5712268929d42c448f5334e7d08432e53ed1ab620a2b17a",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        61,
+        33,
+        148,
+        161
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "west",
+      "frame": 2,
+      "source": "Idle/animations/traveler_01_run_v1/west/frame_002.png",
+      "sha256": "212167e47da6cd370c14c577c0abca39b3113ecf012d0a731c6d0d720d4b54d1",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        58,
+        33,
+        146,
+        166
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "west",
+      "frame": 3,
+      "source": "Idle/animations/traveler_01_run_v1/west/frame_003.png",
+      "sha256": "e56b3b31b5012e09621c737e3e6348f574a4906ee7c8cf487747567fe3d776e4",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        62,
+        31,
+        123,
+        171
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "west",
+      "frame": 4,
+      "source": "Idle/animations/traveler_01_run_v1/west/frame_004.png",
+      "sha256": "75dafb5febf2c48ce24589fa87b652e524f7e4d3137fff0013465de740c0b03f",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        58,
+        19,
+        135,
+        165
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "west",
+      "frame": 5,
+      "source": "Idle/animations/traveler_01_run_v1/west/frame_005.png",
+      "sha256": "8f8cec36b58159041f016c5191eab306807c235e0fb0b1166499cf1312afe1fa",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        57,
+        20,
+        155,
+        156
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "west",
+      "frame": 6,
+      "source": "Idle/animations/traveler_01_run_v1/west/frame_006.png",
+      "sha256": "bcddfa6521757fc4a041a9a0e58161386811d265faf71621775ea0749317d797",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        52,
+        32,
+        148,
+        164
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "west",
+      "frame": 7,
+      "source": "Idle/animations/traveler_01_run_v1/west/frame_007.png",
+      "sha256": "b294506a97036ab8b32a47a4f8dee1e67a1fcf90071c9d2d8a8dcae606078746",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        56,
+        34,
+        131,
+        165
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "south-west",
+      "frame": 0,
+      "source": "Idle/animations/traveler_01_run_v1/south-west/frame_000.png",
+      "sha256": "d3b4e34330a151e8c63eb66d67ad7de3e7894acdeed5f3bcca234a5cfeee3556",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        54,
+        37,
+        128,
+        157
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "south-west",
+      "frame": 1,
+      "source": "Idle/animations/traveler_01_run_v1/south-west/frame_001.png",
+      "sha256": "7a908e7a573678d05d34bbb84fe85e8a4a301eb660cb009fd0ae6d79fb98e371",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        58,
+        38,
+        132,
+        165
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "south-west",
+      "frame": 2,
+      "source": "Idle/animations/traveler_01_run_v1/south-west/frame_002.png",
+      "sha256": "8e581aa63c76775f99f09930338a956b06096ed81ff26fe49a07dee3c7c7a840",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        64,
+        38,
+        129,
+        167
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "south-west",
+      "frame": 3,
+      "source": "Idle/animations/traveler_01_run_v1/south-west/frame_003.png",
+      "sha256": "0182dee2407d40aa2f703dbdc60f7849962acf328b26cd92d8a4dbf7b055e629",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        65,
+        35,
+        120,
+        170
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "south-west",
+      "frame": 4,
+      "source": "Idle/animations/traveler_01_run_v1/south-west/frame_004.png",
+      "sha256": "e4d249230b1365774ac9b25ef133e9d4e4618173bd2c4d62d5d480aa12a39c35",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        65,
+        33,
+        129,
+        160
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "south-west",
+      "frame": 5,
+      "source": "Idle/animations/traveler_01_run_v1/south-west/frame_005.png",
+      "sha256": "6e1debf1c6c8dea3a2167d4dcc8cd9a283a3ab2c1d31ebcfe5ad391067e77dcd",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        59,
+        33,
+        146,
+        157
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "south-west",
+      "frame": 6,
+      "source": "Idle/animations/traveler_01_run_v1/south-west/frame_006.png",
+      "sha256": "313b9ccd0cbc01bcfc9655d9a11b72d33d5a3746b5e31f2cfa53f70058bf94e1",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        50,
+        31,
+        141,
+        169
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    },
+    {
+      "action": "run",
+      "direction": "south-west",
+      "frame": 7,
+      "source": "Idle/animations/traveler_01_run_v1/south-west/frame_007.png",
+      "sha256": "507b0f24950b177d20dff53b9e010a0ccde7e66a7d7b93da99d34becf9f11804",
+      "canvas": [
+        180,
+        180
+      ],
+      "bounds": [
+        63,
+        33,
+        122,
+        167
+      ],
+      "partial_alpha_pixels": 0,
+      "touches_edge": false
+    }
+  ],
+  "note": "File validation only. Ground origin and preview rates require visual review; this does not accept the appearance."
+}
